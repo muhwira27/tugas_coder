@@ -6,19 +6,21 @@ class EmailListPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: NestedScrollView(
-        headerSliverBuilder: (context, innerBoxIsScroller) => [
-          GmailAppBar(),
-        ],
-        body: ListView.builder(
-          itemCount: 20,
-          itemBuilder: (context, index) => EmailTile(
-            sender: "User",
-            subject: "Subject Email",
-            content: "Content Email",
-            day: "01",
-            month: "January",
-            isImportant: false,
+      body: SafeArea(
+        child: NestedScrollView(
+          headerSliverBuilder: (context, innerBoxIsScroller) => [
+            GmailAppBar(),
+          ],
+          body: ListView.builder(
+            itemCount: 20,
+            itemBuilder: (context, index) => EmailTile(
+              sender: "User",
+              subject: "Subject Email",
+              content: "Content Email",
+              day: "01",
+              month: "January",
+              isImportant: false,
+            ),
           ),
         ),
       ),
