@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tugas_coder/widgets/gmail_app_bar.dart';
 
 class EmailListPage extends StatelessWidget {
   @override
@@ -6,7 +7,7 @@ class EmailListPage extends StatelessWidget {
     return Scaffold(
       body: NestedScrollView(
         headerSliverBuilder: (context, innerBoxIsScroller) => [
-          SliverAppBar(),
+          GmailAppBar(),
         ],
         body: ListView.builder(
           itemCount: 1,
