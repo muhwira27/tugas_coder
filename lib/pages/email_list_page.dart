@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tugas_coder/widgets/email_tile.dart';
 import 'package:tugas_coder/widgets/gmail_app_bar.dart';
 
 class EmailListPage extends StatelessWidget {
@@ -10,8 +11,15 @@ class EmailListPage extends StatelessWidget {
           GmailAppBar(),
         ],
         body: ListView.builder(
-          itemCount: 1,
-          itemBuilder: (context, index) => Container(),
+          itemCount: 20,
+          itemBuilder: (context, index) => EmailTile(
+            sender: "User",
+            subject: "Subject Email",
+            content: "Content Email",
+            day: "01",
+            month: "January",
+            isImportant: false,
+          ),
         ),
       ),
     );
