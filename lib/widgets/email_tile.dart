@@ -1,6 +1,7 @@
 // ignore_for_file: must_be_immutable
 
 import 'package:flutter/material.dart';
+import 'package:tugas_coder/pages/email_page.dart';
 
 class EmailTile extends StatefulWidget {
   final String sender;
@@ -32,7 +33,25 @@ class _EmailTileState extends State<EmailTile> {
     return Padding(
       padding: const EdgeInsets.only(bottom: 6, left: 6, right: 6),
       child: InkWell(
-        onTap: () {},
+        onTap: () {
+          Navigator.pushAndRemoveUntil(
+            context,
+            MaterialPageRoute(
+              builder: (context) {
+                return EmailPage(
+                  sender: widget.sender,
+                  subject: widget.subject,
+                  content: widget.content,
+                  day: widget.day,
+                  month: widget.month,
+                  colorPic: widget.colorPic,
+                  isImportant: widget.isImportant,
+                );
+              },
+            ),
+            (route) => true,
+          );
+        },
         customBorder: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(20),
         ),
