@@ -1,0 +1,226 @@
+[
+    {
+        "sender": "Olivia Garcia",
+        "subject": "New Product Launch",
+        "content": "Hi Team,\n\nWe're excited to announce the launch of our new product on September 10th. Stay tuned for more details and promotional materials. Best regards,\nOlivia",
+        "day": "18",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "William Hernandez",
+        "subject": "Training Session",
+        "content": "Dear Team,\n\nWe'll be conducting a training session on September 18th to enhance our skills and knowledge. Please mark your calendars and be prepared to participate. Thank you,\nWilliam",
+        "day": "15",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "Emma Martinez",
+        "subject": "Team Meeting Agenda",
+        "content": "Hi Team,\n\nI've attached the agenda for our upcoming team meeting on September 22nd. Please review it in advance and come prepared for productive discussions. Regards,\nEmma",
+        "day": "15",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "Apple Inc.",
+        "subject": "Product Launch Event",
+        "content": "Hello,\n\nJoin us for our annual product launch event on September 9th. We have some exciting new products to unveil, and you won't want to miss it. Stay tuned for live streaming details. Sincerely,\nApple Inc.",
+        "day": "09",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "Amazon Prime",
+        "subject": "Exclusive Offers",
+        "content": "Hi Prime Member,\n\nDon't miss out on our exclusive offers and discounts this month. From electronics to groceries, there's something for everyone. Explore the deals on our website today. Best regards,\nAmazon Prime",
+        "day": "07",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "Netflix",
+        "subject": "New Content Alert",
+        "content": "Hello,\n\nWe've just added a batch of new movies and TV shows to our library. Check them out and enjoy your favorite entertainment. Happy streaming! Regards,\nNetflix",
+        "day": "07",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "David Lee",
+        "subject": "Budget Review",
+        "content": "Dear Team,\n\nOur quarterly budget review meeting is coming up on September 5th. Please make sure to have your budget reports isImportanty for presentation. Best regards,\nDavid",
+        "day": "05",
+        "month": "September",
+        "isImportant": false
+    },
+    {
+        "sender": "Michael Brown",
+        "subject": "Vacation Notice",
+        "content": "Dear Team,\n\nI wanted to inform you that I'll be on vacation from August 20th to August 30th. During this time, please reach out to John for any urgent matters. Thank you,\nMichael",
+        "day": "25",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Sarah Davis",
+        "subject": "Project Meeting",
+        "content": "Hi Team,\n\nWe have a project meeting scheduled for August 25th to discuss our progress and address any challenges. Please come prepared with your updates and suggestions.\n\nRegards,\nSarah",
+        "day": "20",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Microsoft Azure",
+        "subject": "Product Updates",
+        "content": "Dear Azure User,\n\nWe're excited to share the latest updates and improvements to Microsoft Azure. These enhancements will help you leverage the power of the cloud for your projects. Check out our blog for more information. Regards,\nMicrosoft Azure",
+        "day": "18",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "AWS Support",
+        "subject": "Billing Statement",
+        "content": "Dear Customer,\n\nYour monthly billing statement for August is now available. You can access it by logging into your AWS account. If you have any questions or concerns, please don't hesitate to contact our support team. Best regards,\nAWS Support",
+        "day": "10",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Google Cloud",
+        "subject": "Important Announcement",
+        "content": "Dear Customer,\n\nWe are excited to introduce new features and enhancements to our cloud services. These updates will further improve your cloud computing experience. Please visit our website for more details. Sincerely,\nGoogle Cloud",
+        "day": "08",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "John Doe",
+        "subject": "Meeting Reminder",
+        "content": "Dear Team,\n\nThis is a reminder that we have a team meeting scheduled for tomorrow at 2:00 PM. Please come prepared with your updates and any agenda items you'd like to discuss.\n\nBest regards,\nJohn",
+        "day": "05",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Alice Smith",
+        "subject": "Project Update",
+        "content": "Hi Team,\n\nI wanted to provide you with an update on our ongoing project. We've made significant progress in the last week and are on track to meet our deadlines. Let's keep up the good work!\n\nRegards,\nAlice",
+        "day": "05",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Bob Johnson",
+        "subject": "Report Submission",
+        "content": "Dear Team,\n\nPlease be reminded that the deadline for submitting your monthly reports is approaching. Kindly ensure that you submit your reports by the end of the day on August 10th. Thank you,\nBob",
+        "day": "03",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Emily Wilson",
+        "subject": "Team Building Event",
+        "content": "Hi Team,\n\nI'm excited to announce that we'll be organizing a team-building event on August 15th. Details and agenda will be shared with you soon. It's going to be a fun day!\n\nBest regards,\nEmily",
+        "day": "02",
+        "month": "August",
+        "isImportant": false
+    },
+    {
+        "sender": "Victoria Turner",
+        "subject": "Year-End Review",
+        "content": "Hi Team,\n\nAs the year comes to a close, we'll be conducting a year-end review meeting on July 28th. Let's reflect on our achievements and set goals for the upcoming year.\n\nBest wishes,\nVictoria",
+        "day": "28",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Linda Green",
+        "subject": "Holiday Greetings",
+        "content": "Hello Team,\n\nWishing you all a joyful holiday season and a Happy New Year in advance. Let's look forward to a successful year ahead!\n\nWarm regards,\nLinda",
+        "day": "24",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Microsoft 365",
+        "subject": "New Features",
+        "content": "Hello,\n\nExplore the latest features and enhancements in Microsoft 365. These improvements will help streamline your work processes.\n\nBest regards,\nMicrosoft 365",
+        "day": "12",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Amazon Prime",
+        "subject": "End-of-Year Sale",
+        "content": "Hi Prime Member,\n\nOur end-of-year sale starts on July 10th. Don't miss out on incredible deals across all categories. Happy shopping!\n\nBest regards,\nAmazon Prime",
+        "day": "10",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Google Workspace",
+        "subject": "Security Update",
+        "content": "Dear User,\n\nWe have implemented enhanced security measures for your Google Workspace account. Learn more about these updates in our security blog.\n\nSincerely,\nGoogle Workspace",
+        "day": "07",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Netflix",
+        "subject": "Holiday Specials",
+        "content": "Hello,\n\nGet into the holiday spirit with our collection of festive movies and TV specials. Check them out and enjoy the holiday season!\n\nWarm regards,\nNetflix",
+        "day": "05",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Richard Harris",
+        "subject": "Holiday Schedule",
+        "content": "Dear Team,\n\nHere's the holiday schedule for July. We'll have a company-wide holiday party on July 15th. More details will follow soon. Enjoy the festive season!\n\nWarm regards,\nRichard",
+        "day": "01",
+        "month": "July",
+        "isImportant": false
+    },
+    {
+        "sender": "Matthew Evans",
+        "subject": "Quarterly Review Meeting",
+        "content": "Dear Team,\n\nOur quarterly review meeting is scheduled for June 20th. Please prepare your reports and updates for the meeting. Thank you,\nMatthew",
+        "day": "20",
+        "month": "June",
+        "isImportant": false
+    },
+    {
+        "sender": "Amanda Taylor",
+        "subject": "Team Meeting Agenda",
+        "content": "Hi Team,\n\nI've attached the agenda for our upcoming team meeting on June 18th. Please review it beforehand and come prepared for productive discussions. Regards,\nAmanda",
+        "day": "18",
+        "month": "June",
+        "isImportant": false
+    },
+    {
+        "sender": "Sophia Adams",
+        "subject": "Product Launch",
+        "content": "Hi Team,\n\nWe're thrilled to announce the launch of our new product on June 5th. Stay tuned for more information and promotional materials. Best regards,\nSophia",
+        "day": "05",
+        "month": "June",
+        "isImportant": false
+    },
+    {
+        "sender": "Daniel Clark",
+        "subject": "Team Building Event",
+        "content": "Hi Team,\n\nI'm excited to announce that we'll be organizing a team-building event on May 15th. Details and agenda will be shared with you soon. It's going to be a fun day!\n\nBest regards,\nDaniel",
+        "day": "15",
+        "month": "May",
+        "isImportant": false
+    },
+    {
+        "sender": "Jennifer Brown",
+        "subject": "Project Status Update",
+        "content": "Hi Team,\n\nI wanted to provide you with an update on our ongoing project. We've reached a major milestone and are on track to deliver on time. Let's keep up the good work!\n\nRegards,\nJennifer",
+        "day": "03",
+        "month": "May",
+        "isImportant": false
+    }
+]
