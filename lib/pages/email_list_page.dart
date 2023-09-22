@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:math';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:flutter/material.dart';
 import 'package:tugas_coder/widgets/email_tile.dart';
@@ -11,6 +12,14 @@ class EmailListPage extends StatefulWidget {
 
 class _EmailListPageState extends State<EmailListPage> {
   List<Map<String, dynamic>> emails = [];
+
+  List<Color> colors = [
+    const Color(0xFF59CBF2),
+    const Color(0xFF6397F0),
+    const Color(0xFFF58168),
+    const Color(0xFFF0C42D),
+    const Color(0xFFF4B400),
+  ];
 
   @override
   void initState() {
@@ -44,6 +53,7 @@ class _EmailListPageState extends State<EmailListPage> {
               content: emails[index]['content'],
               day: emails[index]['day'],
               month: emails[index]['month'],
+              colorPic: colors[Random().nextInt(4)],
               isImportant: emails[index]['isImportant'],
             ),
           ),

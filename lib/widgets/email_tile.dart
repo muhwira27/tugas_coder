@@ -8,6 +8,7 @@ class EmailTile extends StatefulWidget {
   final String content;
   final String day;
   final String month;
+  final Color colorPic;
   bool isImportant;
 
   EmailTile({
@@ -17,6 +18,7 @@ class EmailTile extends StatefulWidget {
     required this.content,
     required this.day,
     required this.month,
+    required this.colorPic,
     required this.isImportant,
   });
 
@@ -43,7 +45,7 @@ class _EmailTileState extends State<EmailTile> {
             children: [
               // Profile Picture
               CircleAvatar(
-                backgroundColor: const Color(0xFF6397F0),
+                backgroundColor: widget.colorPic,
                 child: Text(
                   widget.sender[0],
                   style: const TextStyle(
